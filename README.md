@@ -1,6 +1,5 @@
 # Blinkit_Sales_Dashboard
-PROJECT OVERVIEW: This project showcases a detailed Excel-based analysis of BlinkIT's grocery data, focusing on sales performance, product distribution, and consumer behavior patterns. The dashboard was built using Excel tools such as PivotTables, functions, and charts to extract actionable insights and support data-driven decision-making in the retail grocery space.
-
+PROJECT OVERVIEW: This project showcases a detailed Excel-based analysis of BlinkIT's grocery data, focusing on sales performance, product distribution, and consumer behavior patterns. 
 ..............................................................................................................................
 
 🔑 KEY PERFORMANCE INDICATORS (KPI)S The dashboard highlights the following KPIs:
